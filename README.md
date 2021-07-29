@@ -15,7 +15,7 @@ Based on selenium Project.
 ## How to use?
 Make sure the webdriver programme(For Chrome, it's _chromedriver.exe_) and _Downloader.py_ are in the same directory.  
 Copy the urls of songs which you want to download to _list.txt_(It's in the same directory as _Downloader.py_).A url each line.  
-If _list.txt_ doesn't exist, create it.
+If _list.txt_ doesn't exist, create it.  
 _The url looks like this:_
 ```
 https://music.163.com/song?id=1386838818
