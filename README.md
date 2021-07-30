@@ -3,7 +3,7 @@ A simple downloader which is able to download music from NeteaseCloudMusic.
 Based on selenium Project.
 ## REQUIREMENTS
 ### Python 3.4 or higher version  
-### A web broser(But now support Chrome only.)  
+### A web browser(But now support Chrome only.)  
 ### Web Drivers  
 #### You can download it from following sites:  
 [Chrome/Chromium](https://sites.google.com/chromium.org/driver/)  
