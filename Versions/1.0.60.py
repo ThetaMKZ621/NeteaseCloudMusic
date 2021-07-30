@@ -129,7 +129,7 @@ def get_playlist(options):
     return playlist
 
 i = os.system('cls')
-print('NeteaseCloudmusicDownloader v1.0.40')
+print('NeteaseCloudmusicDownloader v1.0.60')
 #Get work mode
 print(
     '''\
