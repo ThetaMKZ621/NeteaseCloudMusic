@@ -26,4 +26,5 @@ That's all.
 
 
 
-This Downloader is still developing.More function will be added in subsequent versions.
+This Downloader is still developing.More function will be added in subsequent versions.  
+This Downloader might be inconvenient to use, but at least it works.
