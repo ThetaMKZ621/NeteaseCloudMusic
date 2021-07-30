@@ -3,13 +3,14 @@
 #Python 3.9.6 on Windows 10 21H1
 #Edited with VS Code
 #Code by ThetaRain
+#Updated July 29,2020
 
 #Import Modules
 import re
 import os
 import datetime
 
-from selenium.webdriver.chrome.options import Options
+
 #Check whether the non-preinstall module "selenium", "requests" and "tqdm" has benn installed.
 try:
     from selenium import webdriver
