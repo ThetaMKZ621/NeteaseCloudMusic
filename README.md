@@ -33,9 +33,10 @@ The downloaded songs will be in a newly created floder that named after the curr
 This project is still developing. More function will be added in subsequent versions.  
 - - -
 ## 改进目标/Goals  
-- [ ] 解决页面加载超时需要手动停止加载的问题/Fix timeouts problem which needs to stop loading manually.
-- [ ] 在获取歌曲信息部分改用无界面模式/Make Headless Mode available in the process of fetching info of songs.
-- [ ] 引入可修改的配置文件以实现部分自定义项/Make custom-edited configuring available.
+- [x] 解决页面加载超时需要手动停止加载的问题/Fix timeouts problem which needs to stop loading manually.
+- [x] 在获取歌曲信息部分改用无界面模式/Make Headless Mode available in the process of fetching info of songs.
+- [x] 引入可修改的配置文件以实现部分自定义项/Make custom-edited configuring available.
+- [x] 加入下载日志功能/Add logging function.
 - [ ] 加入异常处理功能/Add Error Handlers.
 > 适配其他浏览器/Add supports for other browsers.  
 > - [ ] Firefox
