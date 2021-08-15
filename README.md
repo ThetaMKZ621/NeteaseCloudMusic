@@ -29,11 +29,11 @@ Then，run _Downloader.py_ and follow the prompts.
   
 歌曲将会被下载到一个以当前日期和时间命名的文件夹  
 The downloaded songs will be in a newly created floder that named after the current date and time.  
-
+- - -
 
 这个项目仍在开发中，后续版本将加入更多功能，敬请期待  
 This project is still developing. More function will be added in subsequent versions.  
-- - -
+
 ## 改进目标/Goals  
 - [x] 解决页面加载超时需要手动停止加载的问题/Fix timeouts problem which needs to stop loading manually.
 - [x] 在获取歌曲信息部分改用无界面模式/Make Headless Mode available in the process of fetching info of songs.
