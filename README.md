@@ -11,7 +11,7 @@ About [selenium](https://selenium.dev/)
 ### Python 3.4 或更高版本/Python 3.4 or higher version  
 > 建议在Windows上运行，暂未在其他系统上测试，不保证可用  
 > Recommended to run on Windows. It may not work properly if running on other environments.
-### 系统中装有网络浏览器（现版本仅支持Chrome）/Web browser(But now support Chrome only.)  
+### 系统中装有网络浏览器（支持Chrome, Firefox 和 新版Edge）/Web browser(Now support Chrome, Firefox and "New Edge".)  
 ### 浏览器驱动程序/Web Drivers  
 #### 你可以从以下网站下载对应的浏览器驱动程序/You can download it from following sites:  
 >[Chrome/Chromium](https://sites.google.com/chromium.org/driver/)  
@@ -41,7 +41,7 @@ This project is still developing. More function will be added in subsequent vers
 - [x] 加入下载日志功能/Add logging function.
 - [ ] 加入异常处理功能/Add Error Handlers.
 > 适配其他浏览器/Add supports for other browsers.  
-> - [ ] Firefox
-> - [ ] Edge
+> - [x] Firefox
+> - [x] Edge
 > - [ ] Opera
 > - [ ] Safari
