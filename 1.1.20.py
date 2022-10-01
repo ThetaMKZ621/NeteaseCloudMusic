@@ -51,8 +51,7 @@ def get_info(url,browser,retry):
     for _artist in browser.find_elements_by_css_selector('a[class="s-fc7"][href^=\/artist]'):
         info.append(_artist.text)
     for title in browser.find_elements_by_css_selector('em[class="f-ff2"]'):
-        pass
-    info.append(title.text)
+        info.append(title.text)
     return info
 
 #函数 list_to_name()
